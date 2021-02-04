@@ -14,7 +14,7 @@ Be sure to subscribe to our YouTube channel for more videos like this!
 
 ## Contributors
 
-<a href="https://github.com/byprogrammers/lets-code-react-native/graphs/contributors">
+<a href="https://github.com/byprogrammers/LCRN01-travel-onboarding-app/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=byprogrammers/lets-code-react-native" />
 </a>
 
