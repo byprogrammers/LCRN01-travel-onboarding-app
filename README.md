@@ -15,6 +15,6 @@ Be sure to subscribe to our YouTube channel for more videos like this!
 ## Contributors
 
 <a href="https://github.com/byprogrammers/LCRN01-travel-onboarding-app/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=byprogrammers/LCRN01-travel-onboarding-app" />
+   <img src="https://contrib.rocks/image?repo=byprogrammers/lets-code-react-native" />
 </a>
 
