@@ -10,7 +10,7 @@ Be sure to subscribe to our YouTube channel for more videos like this!
 
 | Code | Project | Preview | Inspiration | No. of Screens |
 | ------ | ------ | ------ | ------ | ------ |
-| LCRN01 | [Travel Onboarding App](https://youtu.be/1XP28xVToho) | <img src="https://assets.materialup.com/uploads/64d8b287-3952-49d9-b279-463414ac53b9/preview.png" width="120" /> | [View](https://www.uplabs.com/posts/splash-screen-mobile-ui-5) | 3 |
+| LCRN01 | [Travel Onboarding App](https://youtu.be/1XP28xVToho) | <img src="https://i.ibb.co/pPNyYFP/preview.png" width="120" />  | [View](https://www.uplabs.com/posts/splash-screen-mobile-ui-5) | 1 |
 
 ## Contributors
 
